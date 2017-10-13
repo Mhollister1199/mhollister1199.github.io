@@ -4,7 +4,7 @@ background: lightyellow;
 color: red;
 font-size: 18pt;
 font-family: 'Cinzel', serif;}
-nav li {
+nav a {
 border: inline-block;
 border: 2px solid black;
 background: white;
